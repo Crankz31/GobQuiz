@@ -1,0 +1,162 @@
+[
+  {
+    "question": "De combien de joueurs se compose une équipe de basket-ball ?",
+    "answer1": 4,
+    "answer2": 5,
+    "answer3": 6,
+    "answer4": 8,
+    "goodAnswer": 2
+  },
+  {
+    "question": "Split, Spare, Strike... Vous pouvez entendre ces termes...",
+    "answer1": "Au croquet",
+    "answer2": "A la pétanque",
+    "answer3": "Au loto",
+    "answer4": "Au bowling",
+    "goodAnswer": 4
+  },
+  {
+    "question": "Pour quel sport les arbitres sont-ils obligés d'utiliser la langue française ?",
+    "answer1": "Le rugby",
+    "answer2": "L'escrime",
+    "answer3": "Judo",
+    "answer4": "Tennis",
+    "goodAnswer": 2
+  },
+  {
+    "question": "De ces quatre disciplines, laquelle utilise la plus petite surface de jeu ?",
+    "answer1": "Le rugby",
+    "answer2": "Le volley-ball",
+    "answer3": "Le golf",
+    "answer4": "Le tennis",
+    "goodAnswer": 2
+  },
+  {
+    "question": "Si vous entrez dans un magasin de sport en demandant un \"sand wedge\", vous ressortirez avec...",
+    "answer1": "Un club de golf",
+    "answer2": "Une cravache",
+    "answer3": "Une planche à voile",
+    "answer4": "Une tranche de jambon entre deux tranches de pain",
+    "goodAnswer": 1
+  },
+  {
+    "question": "Au judo, quel est le grade le plus élevé parmi ces ceintures ?",
+    "answer1": "Bleue",
+    "answer2": "Orange",
+    "answer3": "Verte",
+    "answer4": "Jaune",
+    "goodAnswer": 1
+  },
+  {
+    "question": "A quel sport doit-on jouer pendant 2 mi-temps de 40 minutes ?",
+    "answer1": "Au football",
+    "answer2": "Au rugby",
+    "answer3": "Au handall",
+    "answer4": "Au basket-ball",
+    "goodAnswer": 2
+  },
+  {
+    "question": "Quel pays est spécialiste du lancer de tronc d'arbre ou de poutre ?",
+    "answer1": "L'Irlande",
+    "answer2": "L'Australie",
+    "answer3": "Le Canada",
+    "answer4": "L'Ecosse",
+    "goodAnswer": 4
+  },
+  {
+    "question": "A l'origine, avec quel matériau étaient faites les queues de billard ?",
+    "answer1": "Identiques aux queues actuelles",
+    "answer2": "Entièrement en ivoire",
+    "answer3": "En bois, et recourbées",
+    "answer4": "Y'en avait pas",
+    "goodAnswer": 3
+  },
+  {
+    "question": "Au polo, que font généralement les spectateurs entre 2 périodes ?",
+    "answer1": "Ils nettoient les chevaux",
+    "answer2": "Ils rebouchent les trous du terrain",
+    "answer3": "Ils tondent la pelouse",
+    "answer4": "Rien",
+    "goodAnswer": 2
+  },
+  {
+    "question": "Quelle technique utilise une canne de plus de 11 m ?",
+    "answer1": "La pêche à la mouche",
+    "answer2": "La pêche à l'anglaise",
+    "answer3": "La pêche au lancer",
+    "answer4": "La pêche au coup",
+    "goodAnswer": 4
+  },
+  {
+    "question": "Le score maximum pour une partie de bowling est de :",
+    "answer1": "200 points",
+    "answer2": "300 points",
+    "answer3": "400 points",
+    "answer4": "600 points",
+    "goodAnswer": 2
+  },
+  {
+    "question": " \"Field Goal\", \"Kick off\", \"Touchdown\" sont des termes de ...",
+    "answer1": "Football américain",
+    "answer2": "Rugby",
+    "answer3": "Trial",
+    "answer4": "Polo",
+    "goodAnswer": 1
+  },
+  {
+    "question": "Quelle discipline nécessite le port de gants d'environ 200 grammes et d'une coquille ?",
+    "answer1": "La boxe",
+    "answer2": "La boxe Taï",
+    "answer3": "Le karaté",
+    "answer4": "La préparation d'une omelette",
+    "goodAnswer": 1
+  },
+  {
+    "question": "Lors d'un 110 m, les athlètes doivent sauter 10 haies. Pour un 400 m, ils doivent en sauter :",
+    "answer1": "Autant",
+    "answer2": "Deux fois plus",
+    "answer3": "Trois fois plus",
+    "answer4": "Quatre fois plus",
+    "goodAnswer": 1
+  },
+  {
+    "question": "Avant le combat, que jettent les sumotoris au centre de la piste ?",
+    "answer1": "Du sable",
+    "answer2": "De l'eau",
+    "answer3": "Du poivre",
+    "answer4": "Du sel",
+    "goodAnswer": 4
+  },
+  {
+    "question": "Dans quel sport n'avez-vous pas besoin de magnésie ?",
+    "answer1": "Haltérophilie",
+    "answer2": "Barre fixe",
+    "answer3": "Cheval d'arçon",
+    "answer4": "Equitation",
+    "goodAnswer": 4
+  },
+  {
+    "question": "A quelle vitesse peut courir un lévrier ?",
+    "answer1": "40 km/h",
+    "answer2": "50 km/h",
+    "answer3": "60 km/h",
+    "answer4": "70 km/h",
+    "goodAnswer": 3
+  },
+  {
+    "question": "Combien de périodes compte un match de hockey sur glace ?",
+    "answer1": 3,
+    "answer2": 4,
+    "answer3": 5,
+    "answer4": 6,
+    "goodAnswer": 1
+  },
+  {
+    "question": "Pour que la course soit équitable, les chevaux de même âge doivent porter le même poids. Pour cela :",
+    "answer1": "Des sacs de sable sont fixés à la selle",
+    "answer2": "Des tubes de mercure sont placés derrière la selle",
+    "answer3": "Des feuilles de plomb sont installées sous la selle ",
+    "answer4": "Le jockey porte des rouleaux de pièces de monnaie",
+    "goodAnswer": 3
+  }
+]
