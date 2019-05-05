@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="fr.sio.gobquiz.views.MainActivity">
+    tools:context="com.bts.sio.gobquiz.controller.MainActivity">
 
     <TextView
-        android:id="@+id/name_text_view"
+        android:id="@+id/activity_main_greeting_txt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_margin="10dp"
-        android:gravity="center"
         android:padding="20dp"
-        android:text="@string/welcome_text"
-        android:textSize="8pt" />
+        android:text="Bonjour! Bienvenue sur l'application GOBQQuiz"/>
 
     <EditText
-        android:id="@+id/name_input"
+        android:id="@+id/activity_main_name_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="10dp"
-        android:layout_marginStart="10dp"
-        android:hint="@string/name_edit_text" />
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:hint="Entrez votre nom"/>
 
     <Button
-        android:id="@+id/start_btn"
+        android:id="@+id/activity_main_play_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="@dimen/button_layout_marginTop"
-        android:text="@string/start_button" />
+        android:padding="30dp"
+        android:layout_marginTop="20dp"
+    android:text="JOUER "/>
 
     <Button
-        android:id="@+id/scores_btn"
+        android:id="@+id/activity_main_scores_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="@dimen/button_layout_marginTop"
-        android:text="@string/scores" />
+        android:padding="30dp"
+        android:layout_marginTop="20dp"
+        android:text="Meuilleurs scores"/>
 
 </LinearLayout>

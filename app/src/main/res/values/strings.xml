@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TopQuiz</string>
-    <string name="welcome_text">Bienvenue dans le GOBQUIZ !\nQuel est votre prénom ?</string>
-    <string name="name_edit_text">Entrez votre prénom.</string>
-    <string name="start_button">Commencer</string>
-    <string name="scores">Scores</string>
-    <string name="menu_button">Menu</string>
-    <string name="table_noms">Noms</string>
-    <string name="sort_name">Trier par nom</string>
-    <string name="sort_score">Trier par score</string>
+    <string name="app_name">GOBQuiz</string>
 </resources>
