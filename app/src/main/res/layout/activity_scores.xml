@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.bts.sio.gobquiz.controller.ScoresActivity">
+
+    <TextView
+        android:id="@+id/activity_scores_title_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:padding="20dp"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="Les 5 meilleurs joueurs"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        tools:context="com.bts.sio.gobquiz.controller.ScoresActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            tools:context="com.bts.sio.gobquiz.controller.ScoresActivity">
+
+            <TextView
+                android:id="@+id/activity_scores_title_score_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:textSize="25sp"
+                android:textColor="@android:color/holo_blue_dark"
+                android:text="SCORE"/>
+
+            <TextView
+                android:id="@+id/activity_scores_title_name_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:textSize="25sp"
+                android:textColor="@android:color/holo_blue_dark"
+                android:text="NOM"/>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/activity_scores_first_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:hint="Pas de joueurs supplémentaires"/>
+
+        <TextView
+            android:id="@+id/activity_scores_second_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:hint="Pas de joueurs supplémentaires"/>
+
+        <TextView
+            android:id="@+id/activity_scores_third_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:hint="Pas de joueurs supplémentaires"/>
+
+        <TextView
+            android:id="@+id/activity_scores_fourth_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:hint="Pas de joueurs supplémentaires"/>
+
+        <TextView
+            android:id="@+id/activity_scores_fifth_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:hint="Pas de joueurs supplémentaires"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="80dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        tools:context="com.bts.sio.gobquiz.controller.ScoresActivity">
+
+        <Button
+            android:id="@+id/activity_scores_sort_highscores_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="30dp"
+            android:layout_marginTop="20dp"
+            android:text="Trier par score"/>
+
+        <Button
+            android:id="@+id/activity_scores_sort_nameplayers_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="30dp"
+            android:layout_marginTop="20dp"
+            android:text="Trier par nom"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
